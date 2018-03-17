@@ -1,0 +1,4 @@
+#!/bin/bash
+python3 redditaccountstatus.py &
+python3 battery.py &
+python3 wifi.py &
